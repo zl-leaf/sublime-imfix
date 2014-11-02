@@ -18,7 +18,8 @@
 终端下输入以下命令：  
 	`mv libsublime-imfix.so $SUBLIME_HOME/`
 
-	> 该命令需要在 home 目录下执行， 即 **libsublime-imfix.so** 所在目录
+	> + 该命令需要在 home 目录下执行， 即 **libsublime-imfix.so** 所在目录
+	> + **$SUBLIME_HOME**，指Sublime的安装（所在）目录
 
 0. 启动 Sublime Text 2  
 终端下输入以下命令：  
