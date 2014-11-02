@@ -29,3 +29,4 @@
 
 #### 博客：http://my.oschina.net/zlLeaf/blog/185428
 #### 来源：http://my.oschina.net/wugaoxing/blog/121281
+#### 博客：http://www.cnblogs.com/memory4young/p/could-not-input-chinese-in-sublime-on-ubuntu.html
