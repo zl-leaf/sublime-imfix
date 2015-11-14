@@ -10,7 +10,7 @@
 
 0. 编译共享库  
 终端下输入以下命令：  
-	``gcc -shared -o libsublime-imfix.so sublime_imfix.c  `pkg-config --libs --cflags gtk+-2.0` -fPIC``
+	``gcc -shared -o libsublime-imfix.so sublime-imfix.c  `pkg-config --libs --cflags gtk+-2.0` -fPIC``
 
 	> 该命令需要在 home 目录下执行， 即 **sublime-imfix.c** 所在目录
 
